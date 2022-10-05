@@ -1,4 +1,4 @@
-##  **Cisco Packet Tracer Lab (CCNA Switching)**
+##  **Cisco Packet Tracer Lab**
 
 
 - Configured a network consisting of 2 core switches, 3 access switches, and various endpoint devices.  
